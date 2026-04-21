@@ -1,0 +1,16 @@
+course_id,course_name,department_id,credits,semester_offered,university
+CA001,Programming 101,DA1,3,Spring,University A
+CA002,Data Structures,DA2,4,Fall,University A
+CA003,Algorithms,DA1,"3,0",Fall,University A
+CA004,Thermodynamics,DA5,four,Fall,University A
+CA005,Microeconomics,DA1,3,Fall,University A
+CA006,Macroeconomics,DA2,"3,0",Fall,University A
+CA007,Linear Algebra,DA5,4,Spring,University A
+CA008,Statistics,DA2,four,Spring,University A
+CA009,Social Theory,DA1,4,Spring,University A
+CA010,Machine Learning,DA3,5,Fall,University A
+CA011,Advanced Thermo,DA2,5,Fall,University A
+CA012,Econometrics,DA1,four,Fall,University A
+CA013,Abstract Algebra,DA3,5,Spring,University A
+CA014,Fluid Mechanics,DA1,four,Fall,University A
+CA015,Research Methods,DA4,3,Spring,University A
